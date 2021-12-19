@@ -8,6 +8,6 @@
 - [接收到的request，值結尾的空白被去除](https://github.com/siezlh4405/Blog/issues/5)
 
 ## LeetCode
-### Array
-- [Squares of a Sorted Array - O(n)](https://github.com/siezlh4405/Blog/issues/4)
-- [LeetCode - 1. Two Sum (Easy)](https://github.com/siezlh4405/Blog/issues/6)
+### Easy
+- [1. Two Sum (Easy)](https://github.com/siezlh4405/Blog/issues/6)
+- [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
