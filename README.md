@@ -9,5 +9,5 @@
 
 ## LeetCode
 ### Easy
-- [1. Two Sum (Easy)](https://github.com/siezlh4405/Blog/issues/6)
+- [1. Two Sum](https://github.com/siezlh4405/Blog/issues/6)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
