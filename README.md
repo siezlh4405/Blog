@@ -10,3 +10,4 @@
 ## LeetCode
 ### Array
 - [Squares of a Sorted Array - O(n)](https://github.com/siezlh4405/Blog/issues/4)
+- [LeetCode - 1. Two Sum (Easy)](https://github.com/siezlh4405/Blog/issues/6)
