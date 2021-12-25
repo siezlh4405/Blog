@@ -12,4 +12,5 @@
 - [1. Two Sum](https://github.com/siezlh4405/Blog/issues/6)
 - [9. Palindrome Number](https://github.com/siezlh4405/Blog/issues/7)
 - [13. Roman to Integer](https://github.com/siezlh4405/Blog/issues/8)
+- [14. Longest Common Prefix](https://github.com/siezlh4405/Blog/issues/9)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
