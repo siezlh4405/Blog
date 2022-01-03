@@ -13,4 +13,5 @@
 - [9. Palindrome Number](https://github.com/siezlh4405/Blog/issues/7)
 - [13. Roman to Integer](https://github.com/siezlh4405/Blog/issues/8)
 - [14. Longest Common Prefix](https://github.com/siezlh4405/Blog/issues/9)
+- [20. Valid Parentheses](https://github.com/siezlh4405/Blog/issues/10)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
