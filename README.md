@@ -17,4 +17,5 @@
 - [21. Merge Two Sorted Lists](https://github.com/siezlh4405/Blog/issues/11)
 - [26. Remove Duplicates from Sorted Array](https://github.com/siezlh4405/Blog/issues/12)
 - [27. Remove Element](https://github.com/siezlh4405/Blog/issues/13)
+- [28. Implement strStr()](https://github.com/siezlh4405/Blog/issues/14)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
