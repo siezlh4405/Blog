@@ -20,4 +20,5 @@
 - [28. Implement strStr()](https://github.com/siezlh4405/Blog/issues/14)
 - [35. Search Insert Position](https://github.com/siezlh4405/Blog/issues/15)
 - [53. Maximum Subarray](https://github.com/siezlh4405/Blog/issues/16)
+- [58. Length of Last Word](https://github.com/siezlh4405/Blog/issues/17)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
