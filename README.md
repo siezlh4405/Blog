@@ -21,4 +21,5 @@
 - [35. Search Insert Position](https://github.com/siezlh4405/Blog/issues/15)
 - [53. Maximum Subarray](https://github.com/siezlh4405/Blog/issues/16)
 - [58. Length of Last Word](https://github.com/siezlh4405/Blog/issues/17)
+- [66. Plus One](https://github.com/siezlh4405/Blog/issues/18)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
