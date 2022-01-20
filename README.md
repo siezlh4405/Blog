@@ -22,4 +22,5 @@
 - [53. Maximum Subarray](https://github.com/siezlh4405/Blog/issues/16)
 - [58. Length of Last Word](https://github.com/siezlh4405/Blog/issues/17)
 - [66. Plus One](https://github.com/siezlh4405/Blog/issues/18)
+- [67. Add Binary](https://github.com/siezlh4405/Blog/issues/22)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
