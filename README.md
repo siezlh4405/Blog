@@ -25,3 +25,4 @@
 - [67. Add Binary](https://github.com/siezlh4405/Blog/issues/22)
 - [977. Squares of a Sorted Array](https://github.com/siezlh4405/Blog/issues/4)
 - [69. Sqrt(x)](https://github.com/siezlh4405/Blog/issues/23)
+- [83. Remove Duplicates from Sorted List](https://github.com/siezlh4405/Blog/issues/24)
