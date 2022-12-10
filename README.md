@@ -31,3 +31,5 @@
 - [202. Happy Number](https://github.com/siezlh4405/Blog/issues/27)
 - [171. Excel Sheet Column Number](https://github.com/siezlh4405/Blog/issues/28)
 - [217. Contains Duplicate](https://github.com/siezlh4405/Blog/issues/29)
+- [219. Contains Duplicate II](https://github.com/siezlh4405/Blog/issues/30)
+
