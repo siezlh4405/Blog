@@ -28,3 +28,6 @@
 - [83. Remove Duplicates from Sorted List](https://github.com/siezlh4405/Blog/issues/24)
 - [88. Merge Sorted Array](https://github.com/siezlh4405/Blog/issues/25)
 - [136. Single Number](https://github.com/siezlh4405/Blog/issues/26)
+- [202. Happy Number](https://github.com/siezlh4405/Blog/issues/27)
+- [171. Excel Sheet Column Number](https://github.com/siezlh4405/Blog/issues/28)
+- [217. Contains Duplicate](https://github.com/siezlh4405/Blog/issues/29)
