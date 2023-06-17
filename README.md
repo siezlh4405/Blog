@@ -13,6 +13,7 @@
 - [Mysql only_full_group_by](https://github.com/siezlh4405/Blog/issues/2)
 - [Target host is configured as Windows, but seems to be a different OS](https://github.com/siezlh4405/Blog/issues/3)
 - [接收到的request，值結尾的空白被去除](https://github.com/siezlh4405/Blog/issues/5)
+- [Laravel8 render function in Handler.php not work](https://github.com/siezlh4405/Blog/issues/38)
 
 ### PHP
 - [用 PHP 實現 EXCEL MROUND](https://github.com/siezlh4405/Blog/issues/32)
