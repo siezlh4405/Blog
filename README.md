@@ -17,7 +17,7 @@
 - [Laravel - Eloquent model returns 0 as primary key](https://github.com/siezlh4405/Blog/issues/39)
 - [Laravel - Add Cors For Route](https://github.com/siezlh4405/Blog/issues/40)
 - [Laravel - common command](https://github.com/siezlh4405/Blog/issues/41)
-- [Laravel - JWT]((https://github.com/siezlh4405/Blog/issues/44)
+- [Laravel - JWT](https://github.com/siezlh4405/Blog/issues/44)
 
 ### PHP
 - [用 PHP 實現 EXCEL MROUND](https://github.com/siezlh4405/Blog/issues/32)
