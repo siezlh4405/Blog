@@ -16,6 +16,7 @@
 - [Laravel8 render function in Handler.php not work](https://github.com/siezlh4405/Blog/issues/38)
 - [Laravel - Eloquent model returns 0 as primary key](https://github.com/siezlh4405/Blog/issues/39)
 - [Laravel - Add Cors For Route](https://github.com/siezlh4405/Blog/issues/40)
+- [Laravel - common command](https://github.com/siezlh4405/Blog/issues/41)
 
 ### PHP
 - [用 PHP 實現 EXCEL MROUND](https://github.com/siezlh4405/Blog/issues/32)
