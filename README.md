@@ -26,6 +26,7 @@
 ### Docker
 - [Docker 安裝](https://github.com/siezlh4405/Blog/issues/46)
 - [Laradock](https://github.com/siezlh4405/Blog/issues/45)
+- [WSL2安裝](https://github.com/siezlh4405/Blog/issues/47)
 
 
 ## LeetCode
