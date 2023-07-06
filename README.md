@@ -26,6 +26,7 @@
 - [Laradock](https://github.com/siezlh4405/Blog/issues/45)
 - [WSL2安裝](https://github.com/siezlh4405/Blog/issues/47)
 - [Docker - Mysql 安裝 VIM](https://github.com/siezlh4405/Blog/issues/48)
+- [change the PHP version in Laradock](https://github.com/siezlh4405/Blog/issues/50)
 
 ### Mysql
 - [Mysql 調整時區](https://github.com/siezlh4405/Blog/issues/49)
