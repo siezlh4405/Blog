@@ -9,6 +9,7 @@
 
 ### Angular
 - [Angular - Location - onurlchange()](https://github.com/siezlh4405/Blog/issues/51)
+- [Angular - ngbModal do not want to focus the element that can focus (ng-bootstrap)](https://github.com/siezlh4405/Blog/issues/52)
 
 ## 後端
 ### Laravel
