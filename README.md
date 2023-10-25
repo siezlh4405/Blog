@@ -8,7 +8,7 @@
 - [清除浮動 clearfix](https://github.com/siezlh4405/Blog/issues/35)
 
 ### Angular
-- [Angular Location - onurlchange](https://github.com/siezlh4405/Blog/issues/51)
+- [Angular - Location - onurlchange()](https://github.com/siezlh4405/Blog/issues/51)
 
 ## 後端
 ### Laravel
