@@ -10,6 +10,7 @@
 ### Angular
 - [Angular - Location - onurlchange()](https://github.com/siezlh4405/Blog/issues/51)
 - [Angular - ngbModal do not want to focus the element that can focus (ng-bootstrap)](https://github.com/siezlh4405/Blog/issues/52)
+- [Angular - 在Input中沒有取得正確的傳入值](https://github.com/siezlh4405/Blog/issues/53)
 
 ## 後端
 ### Laravel
