@@ -22,6 +22,8 @@
 - [Laravel - common command](https://github.com/siezlh4405/Blog/issues/41)
 - [Laravel - JWT](https://github.com/siezlh4405/Blog/issues/44)
 
+### GIT
+- [遇到 Filename too long 解法](https://github.com/siezlh4405/Blog/issues/54)
 
 ### PHP
 - [用 PHP 實現 EXCEL MROUND](https://github.com/siezlh4405/Blog/issues/32)
