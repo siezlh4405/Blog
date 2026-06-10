@@ -1,4 +1,9 @@
 # Blog
+## Linux 語法
+- [Linux 語法筆記](https://github.com/siezlh4405/Blog/issues/56)
+- 
+## CKA 相關
+- [kubectl 指令](https://github.com/siezlh4405/Blog/issues/57)
 
 ## 前端
 ### Javascript
